@@ -1,6 +1,6 @@
 ### Hello World! 👋
 
-💻 I'm currently working with Python and Django <br>
+💻 I'm currently working with Python and Django ando Django Rest Framework<br>
 🌱 In improvement, Typescript, Nexts, Chakra, ReactJS, Javascript, VueJs, Vuex, Route, Structure AWS, Deploys, Tests TDD, CI/CD, NodeJS<br>
 
 C.H.A.M.A que vem! 🔥
