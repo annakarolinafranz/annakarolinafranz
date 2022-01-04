@@ -7,9 +7,9 @@ C.H.A.M.A que vem! 🔥
 Conhecimento, Habilidade, Atitude, Motivação, Amar, Aberta pra aprender novas tecnologias!
 
 <div align="center">
-  <a href="https://github.com/annakarolinafranz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=annakarolinafranz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annakarolinafranz&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/franzannakarolina">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=franzannakarolina&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franzannakarolina&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ### Skills
