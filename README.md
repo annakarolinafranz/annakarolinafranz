@@ -52,5 +52,5 @@ Conhecimento, Habilidade, Atitude, Motivação, Amar, Aberta pra aprender novas 
 
 #### "Tenha muito cuidado com o que você deseja de coração, porque por certo será seu" - Napoleon Hill  
   
-   <img src="kisspng-ninja-computer-programming-learning-study-skills-avatar-5acd61df554968.2443493915234093753493" width="350" alt="accessibility text">
+   <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gratispng.com%2Fpng-gwyehc%2F&psig=AOvVaw29hyv4Y405EgaQyoctLmfT&ust=1642268385489000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLi37M_ksfUCFQAAAAAdAAAAABAD" width="350" alt="accessibility text">
   
