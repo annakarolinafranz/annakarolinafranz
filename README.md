@@ -20,8 +20,8 @@ Conhecimento, Habilidade, Atitude, Motivação, Amar, Aberta pra aprender novas 
   <kbd>Full Stack</kbd>
   </div>  
 <div style="display: inline_block"><br>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" />,   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
   <svg viewBox="0 0 128 128">
