@@ -5,6 +5,9 @@
 
 C.H.A.M.A que vem! 🔥
 Conhecimento, Habilidade, Atitude, Motivação, Amar, Aberta pra aprender novas tecnologias!
+<header>
+   <script src="https://code.iconify.design/2/2.1.2/iconify.min.js"></script>
+  </header>
 
 <div align="center">
   <a href="https://github.com/franzannakarolina">
@@ -17,7 +20,6 @@ Conhecimento, Habilidade, Atitude, Motivação, Amar, Aberta pra aprender novas 
  <div align="center">  
   <kbd> 
   <div align="center">
-    <script src="https://code.iconify.design/2/2.1.2/iconify.min.js"></script>
   <kbd>Full Stack</kbd>
     <span class="iconify" data-icon="vscode-icons:file-type-reactjs"></span>
     
