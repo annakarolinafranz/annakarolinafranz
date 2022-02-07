@@ -17,7 +17,10 @@ Conhecimento, Habilidade, Atitude, Motivação, Amar, Aberta pra aprender novas 
  <div align="center">  
   <kbd> 
   <div align="center">
+    <script src="https://code.iconify.design/2/2.1.2/iconify.min.js"></script>
   <kbd>Full Stack</kbd>
+    <span class="iconify" data-icon="vscode-icons:file-type-reactjs"></span>
+    
   </div>  
 <div style="display: inline_block"><br>  
   
