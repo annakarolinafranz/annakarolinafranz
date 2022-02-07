@@ -17,13 +17,6 @@
 </p>
 
 <br>
-
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="20vw" /> I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m *currently learning* how to **flex README** on my **profile** 💪.
-
-
-
-<br>
 <div align="center">
 <a href="https://github.com/franzannakarolina">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franzannakarolina&theme=dark&hide_langs_below=1" />
