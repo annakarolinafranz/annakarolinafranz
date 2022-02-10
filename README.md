@@ -1,6 +1,4 @@
 <div>
-  <img src="https://github.com/pr2tik1/pr2tik1/blob/master/franzannakarolina">
-
   <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu me chamo Anna Karolina!</h1>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=franzannakarolina&color=blueviolet" alt="Profile views" /> </p>
   # Front-End and Back-End<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
@@ -11,8 +9,6 @@
  -->
 
 <img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
-
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 <p>
   <em>
