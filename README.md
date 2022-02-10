@@ -17,12 +17,27 @@
 <p>
   <em>
     💻 I'm currently working with Python and Django ando Django Rest Framework<br>
-    🌱 In improvement, Typescript, Nexts, Chakra, ReactJS, Javascript, VueJs, Vuex, Route, Structure AWS, Deploys, Tests TDD, CI/CD, NodeJS<br> 
+
     💬  Ask me about **Linux 🐧** <br>
+
   </em>  
 </p>
 
-## 🛠 &nbsp;Tech Stack
+### 🌱 In improvement
+
+  <p align="rigth">  <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  </p>
+<br>
+
+## 🛠 &nbsp;Tech Stack <br>
+
+<br>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![VueJs](https://img.shields.io/badge/-vuejs-black?style=flat-square&logo=vue)
@@ -47,15 +62,14 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <br>
-<p align="center">
-  <img width="530em" src="https://github-readme-stats.vercel.app/api?username=franzannakarolina&show_icons=true&theme=nightowl" alt=""/>
-</p>
+<div>
+  <a href="https://github.com/franzannakarolina">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?franzannakarolina&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?franzannakarolina&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?franzannakarolina=dexternatan&hide=TeX&layout=compact)
+</div>
 <br>
-
-<!--
+<!-- 
 ![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=TheDudeThatCode&show_icons=true&hide_border=true)
  -->
 
