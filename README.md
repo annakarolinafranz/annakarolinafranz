@@ -18,7 +18,7 @@
   <em>
     💻 I'm currently working with Python and Django ando Django Rest Framework<br>
 
-    💬  Ask me about **Linux 🐧** <br>
+    💬  Ask me about **Linux 🐧**
 
   </em>  
 </p>
@@ -61,15 +61,11 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
+[![franzannakarolina GitHub stats](https://github-readme-stats.vercel.app/api?username=franzannakarolina)](https://github.com/franzannakarolina/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franzannakarolina&layout=compact)](https://github.com/franzannakarolina/github-readme-stats)
 <br>
-<div>
-  <a href="https://github.com/franzannakarolina">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?franzannakarolina&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?franzannakarolina&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-</div>
-<br>
-<!-- 
+
+<!--
 ![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=TheDudeThatCode&show_icons=true&hide_border=true)
  -->
 
