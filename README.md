@@ -1,5 +1,5 @@
 <div>
-  <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu me chamo Anna Karolina!</h1>
+  <h1 align="left">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'am Anna Karolina!</h1>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=franzannakarolina&color=blueviolet" alt="Profile views" /> </p>
   # Front-End and Back-End<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 </div>
