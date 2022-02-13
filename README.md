@@ -12,7 +12,7 @@
 
 <p>
   <em>
-    💻 I'm currently working with Python and Django ando Django Rest Framework<br>
+    💻 I'm currently working with Python and Django and Django Rest Framework<br>
 
     💬  Ask me about **Linux 🐧**
 
