@@ -65,8 +65,9 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-[![franzannakarolina GitHub stats](https://github-readme-stats.vercel.app/api?username=franzannakarolina)](https://github.com/franzannakarolina/github-readme-stats)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franzannakarolina&layout=compact&theme=dracula&count_private=true" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=franzannakarolina&show_icons=true&theme=tokyonight)
+<!-- [![franzannakarolina](https://github-readme-stats.vercel.app/api/top-langs/?username=franzannakarolina&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/arthurspk/) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franzannakarolina&layout=compact&theme=tokyonight)
 <br>
 
 <!--
