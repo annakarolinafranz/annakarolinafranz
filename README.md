@@ -1,6 +1,6 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=franzannakarolina" alt="annakarolinafranz" /></p>
 
-<h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Anna Karolina Franz</h1></br>
+<h1 align = "justify"> Hi, I am Anna Karolina Franz</h1></br>
 <h3 align = "justify">Front-end and back-end Developer, Coffee lover, Javascript, Typescript, Python, Django, Django Rest Framework, Performance curious, @reactjs expert. Currently in love with por ReactJs, Python and Django programming</h3></br>
 
 <!-- ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966) -->
