@@ -52,3 +52,4 @@ jogo-de-portas: https://jogo-de-portas-next.vercel.app/
 ![NETLIFY](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ![](https://github-readme-stats.vercel.app/api?username=franzannakarolina&theme=blue-green)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franzannakarolina&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
