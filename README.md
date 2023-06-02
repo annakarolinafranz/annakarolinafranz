@@ -41,6 +41,8 @@ spacetime-ignite: https://nlw-12-spacetime-ignite.vercel.app/ [EM CONSTRUÇÃO -
 ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
+<img width="400" align="right" alt="coding" src="https://www.lambdatest.com/resources/images/news24.gif">
+
 ## 🔔 Tests
 ![JEST](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 
@@ -51,3 +53,5 @@ spacetime-ignite: https://nlw-12-spacetime-ignite.vercel.app/ [EM CONSTRUÇÃO -
 ![HEROKU](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![VERCEL](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![NETLIFY](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+
