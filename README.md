@@ -55,3 +55,8 @@ spacetime-ignite: https://nlw-12-spacetime-ignite.vercel.app/ [EM CONSTRUÇÃO -
 ![NETLIFY](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 
+<div>
+<a href="https://github.com/iannak">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"/>
+</div>
