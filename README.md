@@ -57,6 +57,6 @@ spacetime-ignite: https://nlw-12-spacetime-ignite.vercel.app/ [EM CONSTRUÇÃO -
 
 <div>
 <a href="https://github.com/iannak">
-<img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical&theme=radical"/>
-<img height="300px" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"/>
+<img height="280px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical&theme=radical"/>
+<img height="280px" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"/>
 </div>
