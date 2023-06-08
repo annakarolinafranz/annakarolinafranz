@@ -12,6 +12,9 @@ spotify: https://spotify-carosel-reswllw65-franzkarols.vercel.app/ </br>
 jogo-de-portas: https://jogo-de-portas-next.vercel.app/ </br>
 spacetime-ignite: https://nlw-12-spacetime-ignite.vercel.app/ [EM CONSTRUÇÃO - INTEGRAÇÃO COM BACKEND]
 
+## 🔗 Projetos OpenSource
+mentor-cycle: https://github.com/Mentor-Cycle
+
 ## 🔗 Networks
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anna-karolina-franz-b72242218/)
 [![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/iannaf#6220)
