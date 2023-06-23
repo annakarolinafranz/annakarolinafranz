@@ -44,7 +44,8 @@ mentor-cycle: https://github.com/Mentor-Cycle
 ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<img width="400" align="right" alt="coding" src="https://www.lambdatest.com/resources/images/news24.gif">
+<!-- <img width="400" align="right" alt="coding" src="https://www.lambdatest.com/resources/images/news24.gif"> -->
+<img width="500" align="right" alt="coding" src="https://images3.alphacoders.com/130/1309219.jpg">
 
 ## 🔔 Tests
 ![JEST](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
