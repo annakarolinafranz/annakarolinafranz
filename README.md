@@ -13,7 +13,7 @@ jogo-de-portas: https://jogo-de-portas-next.vercel.app/ </br>
 spacetime-ignite: https://nlw-12-spacetime-ignite.vercel.app/ [EM CONSTRUÇÃO - INTEGRAÇÃO COM BACKEND]
 
 ## 🔗 Projetos OpenSource
-mentor-cycle: https://github.com/Mentor-Cycle
+mentor-cycle: https://github.com/Mentor-Cycle - https://www.mentorcycle.com.br/
 
 ## 🔗 Networks
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anna-karolina-franz-b72242218/)
