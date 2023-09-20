@@ -3,16 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iannak&label=Profile%20views&color=0e75b6&style=flat" alt="iannak" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iannak" alt="iannak" /></a> </p>
-
-- 🌱 I’m currently learning **Nodejs, Devops, Php, Laravel, React Native, Context API, etc...**
-
-- 👯 I'm collaborating on [Mentor Cycle](mentorhttps://www.mentorcycle.com.br/)
-
-- 📝 I regularly write articles on [https://dev.to/franzkarol](https://dev.to/franzkarol)
-
-- 📫 How to reach me **franz.karols@gmail.com**
-
 ## 🔗 Portfolio
 podcastr: https://podcastr-nwl.vercel.app/ </br>
 quiz: https://quiz-next-reactjs.vercel.app/ </br>
