@@ -33,7 +33,13 @@
   <h3><b><samp>Projects:</samp></b></h3>
 
   - Shopping Cart - ReactJS: https://shopping-cart-mu-amber.vercel.app
-  - NLW12 - Space time: nlw-12-spacetime-ignite.vercel.app 
+  - NLW12 - Space time: https://nlw-12-spacetime-ignite.vercel.app
+  - Jogo de Portas - ReactJs - NextJs: https://jogo-de-portas-next.vercel.app
+  - Quiz - ReactJS: https://quiz-next-reactjs.vercel.app
+  - PodCastr - ReactJS: https://podcastr-nwl.vercel.app
+  - Spotify - HTML: https://spotify-carosel.vercel.app
+  - Tabuleiro - ReactJs: https://tabuleiro-next.vercel.app
+
 
 </div>
 
