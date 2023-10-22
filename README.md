@@ -28,6 +28,15 @@
 - 👨🏻‍💻 <b>CloudValid - Dev Front - USD ... Page DNS - ReactJS, TS, JS, Rest API(Junh 2023 - Out 2023)</b><br>
 - 👨🏻‍💻 <b>CR - Dev Front e Back - ... Inteligencia Artificial - ReactJS, TS, JS, Nodejs, Express, TDD, Cypress, Rest API(Outub 2022 - Atuando)</b><br>
 </div>
+
+<div>
+  <h3><b><samp>Projects:</samp></b></h3>
+
+  - Shopping Cart - ReactJS: https://shopping-cart-mu-amber.vercel.app
+  - NLW12 - Space time: nlw-12-spacetime-ignite.vercel.app 
+
+</div>
+
   
 <span>
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bootstrap-5-1.svg" alt="drawing" width="50"/>
