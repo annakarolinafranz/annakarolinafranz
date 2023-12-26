@@ -69,10 +69,10 @@
 <p align="left">
   <a href="#" title="Gmail">
 
-  <a href="#" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/anna-karolina-f-b72242218/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anna-karolina-f-b72242218/" alt="LinkedIn"/></a>
 
 
-  <a href="#" title="Instagram">
+  <a href="https://www.instagram.com/i.annk/" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/i.annk/" alt="Instagram"/></a>
 </p>
