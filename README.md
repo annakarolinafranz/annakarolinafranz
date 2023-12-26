@@ -12,8 +12,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <h2 align="left"> 
-  Anna Karolina Franz <strong>Software Engineer | Desenvolvedor Full Stack | Javascript | ReactJS | OSF | VTEX | Angular | NextJS | Typescript | NestJs | Prisma | TypeOrm | NodeJs</strong>.<br>
-  
+  Anna Karolina Franz <br />
+  <strong>Software Engineer | Desenvolvedor Full Stack </strong><br>
 </h2>
 
 # 💻 Tech Stack:
