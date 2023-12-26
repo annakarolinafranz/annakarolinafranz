@@ -19,8 +19,6 @@
   - PodCastr - ReactJS: https://podcastr-nwl.vercel.app
   - Spotify - HTML: https://spotify-carosel.vercel.app
   - Tabuleiro - ReactJs: https://tabuleiro-next.vercel.app
-
-  - Portfólio Anna - ReactJs e Next https://portfolio-anna-rosy.vercel.app (Em Construção) 
 </div>
 <div>
   
