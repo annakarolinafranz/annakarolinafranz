@@ -107,8 +107,3 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/i.annk/" alt="Instagram"/></a>
 </p>
 
-
----
-[![](https://visitcount.itsvg.in/api?id=iannak&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
